@@ -4,12 +4,12 @@ Computer science student from Brazil, exploring game development and software in
 
 ## 🎮 Games
 
-### [Apocalipse](https://github.com/Matheus-R-Porto/Apocalipse) *(working title)*
+### [Apocalipse](https://github.com/Matheus-R-Porto/Apocalipse) *(working title, discontinued)*
 Top-down zombie apocalypse survival game, built with **HTML5 Canvas + vanilla JavaScript** (no dependencies). Inspired by Darkwood, Project Zomboid and The Escapists.
 - Event-driven architecture (EventBus + GameState)
 - Field of view / raycasting, fog-of-war, day-night cycle, zombie AI, biome-based map
 
-### [terra-penhorada](https://github.com/Matheus-R-Porto/terra-penhorada) *(working title)*
+### [terra-penhorada](https://github.com/Matheus-R-Porto/terra-penhorada) *(working title, discontinued)*
 Farming/survival prototype built in **GameMaker**: planting, animal husbandry, mining, automated machines, crafting and a contracts/economy system.
 
 ### [arauto-do-sol](https://github.com/Matheus-R-Porto/arauto-do-sol) *(working title)*
