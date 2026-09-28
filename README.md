@@ -1,22 +1,22 @@
-# Olá, eu sou o Matheus 👋
+# Hi, I'm Matheus 👋
 
-Estudante de programação, explorando desenvolvimento de jogos e software em geral. Os projetos abaixo são estudos e protótipos — nem tudo está finalizado, mas mostram processo e evolução técnica.
+Computer science student from Brazil, exploring game development and software in general. The projects below are studies and prototypes — not everything is finished, but they show process and technical growth.
 
-## 🎮 Jogos
+## 🎮 Games
 
-### [Apocalipse](https://github.com/Matheus-R-Porto/Apocalipse) *(título provisório)*
-Jogo top-down de sobrevivência em apocalipse zumbi, feito em **HTML5 Canvas + JavaScript puro** (sem dependências). Inspirado em Darkwood, Project Zomboid e The Escapists.
-- Arquitetura orientada a eventos (EventBus + GameState)
-- Cone de visão / raycasting, fog-of-war, ciclo dia-noite, IA de zumbis, mapa por biomas
+### [Apocalipse](https://github.com/Matheus-R-Porto/Apocalipse) *(working title)*
+Top-down zombie apocalypse survival game, built with **HTML5 Canvas + vanilla JavaScript** (no dependencies). Inspired by Darkwood, Project Zomboid and The Escapists.
+- Event-driven architecture (EventBus + GameState)
+- Field of view / raycasting, fog-of-war, day-night cycle, zombie AI, biome-based map
 
-### [terra-penhorada](https://github.com/Matheus-R-Porto/terra-penhorada) *(nome provisório)*
-Protótipo de jogo de fazenda/sobrevivência feito em **GameMaker**: plantio, criação de animais, mineração, máquinas automatizadas, crafting e sistema de contratos/economia.
+### [terra-penhorada](https://github.com/Matheus-R-Porto/terra-penhorada) *(working title)*
+Farming/survival prototype built in **GameMaker**: planting, animal husbandry, mining, automated machines, crafting and a contracts/economy system.
 
-### [arauto-do-sol](https://github.com/Matheus-R-Porto/arauto-do-sol) *(nome provisório)*
-Metroidvania 2D em **HTML5 Canvas + JavaScript puro**, inspirado em Hollow Knight e Dark Souls. Projeto ativo, com sistema de combate (combo de espada, dois golpes), áudio, pipeline própria de sprites em Python e bateria de testes automatizados.
+### [arauto-do-sol](https://github.com/Matheus-R-Porto/arauto-do-sol) *(working title)*
+2D metroidvania built with **HTML5 Canvas + vanilla JavaScript**, inspired by Hollow Knight and Dark Souls. Actively in development, with a sword combo combat system, audio, a custom Python sprite pipeline and an automated test suite.
 
 ### [dungeon-teacher](https://github.com/Matheus-R-Porto/dungeon-teacher)
-RPG em **Three.js (3D)**: progressão de personagem, inventário, habilidades, torre procedural e sistema de recompensas. Projeto ativo, atualmente na iteração 8.
+RPG built with **Three.js (3D)**: character progression, inventory, skills, a procedural tower and a reward system. Actively in development, currently on iteration 8.
 
 ---
-*Portfólio em construção — mais projetos serão adicionados aqui.*
+*Portfolio in progress — more projects will be added here.*
