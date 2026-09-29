@@ -18,5 +18,10 @@ Farming/survival prototype built in **GameMaker**: planting, animal husbandry, m
 ### [dungeon-teacher](https://github.com/Matheus-R-Porto/dungeon-teacher) *(working title)*
 Roguelite-ish tower climber built with **Three.js (3D)**, inspired by Ragnarok Online and Sword Art Online: pick a weapon, climb, loot, return to the hub stronger. The twist — still unbuilt — is gamified learning: chests trigger educational questions, and answering right improves the loot odds. Actively in development, currently on iteration 8.
 
+## 🎓 Other projects
+
+### [GuIA](https://github.com/Matheus-R-Porto/GuIA)
+Desktop AI tutor (Windows), built as my school capstone project (TCC) with classmate [@SoapDisco286](https://github.com/SoapDisco286). Instead of answering directly, it teaches using the Socratic method — guiding the student to the answer through questions — and the project's thesis is testing whether that produces more real learning than a regular answer-giving AI. Basically feature-complete; no major changes planned.
+
 ---
 *Portfolio in progress — more projects will be added here.*
