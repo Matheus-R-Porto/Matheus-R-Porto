@@ -5,7 +5,7 @@ Computer science student from Brazil, exploring game development and software in
 ## 🎓 Other projects
 
 ### [GuIA](https://github.com/Matheus-R-Porto/GuIA)
-Desktop AI tutor (Windows), built as my school capstone project (TCC) with classmate [@SoapDisco286](https://github.com/SoapDisco286). Instead of answering directly, it teaches using the Socratic method — guiding the student to the answer through questions — and the project's thesis is testing whether that produces more real learning than a regular answer-giving AI. Basically feature-complete; no major changes planned.
+Desktop AI tutor (Windows), built as my school capstone project (TCC) with classmate [@SoapDisco286](https://github.com/SoapDisco286). Instead of answering directly, it teaches using the Socratic method (guiding the student to the answer through questions) and the project's thesis is testing whether that produces more real learning than a regular answer-giving AI. Basically feature-complete; no major changes planned.
 
 ## 🎮 Games
 
